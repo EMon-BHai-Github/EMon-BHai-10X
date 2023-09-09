@@ -3,7 +3,7 @@
 <p align="center">
     <img align="center" alt="PNG" src="https://i.postimg.cc/pXbwwdFF/EMon-BHai-20230908-213516-0000.png" />
 </p> 
-<h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
+<h1>INSTRUCTIONS ON HOW TO INSTALL MESSENGER BOT ON PLATFORMS</h1>
 
 >  **TRƯỚC KHI CHẠY BOT CÁC BẠN PHẢI CHẤP NHẬN VIỆC ACC FACEBOOK BỊ QUÉT VÀ DIE, MỌI KHIẾU NẠI VỀ ACC FACEBOOK BÊN MÌNH KHÔNG CHỊU TRÁCH NHIỆM**
 
