@@ -1,7 +1,7 @@
 <h1> Hello in front of the screen 🍑 <img src="https://i.postimg.cc/SN8KGWQw/20230908-205103-0000.png" width="37"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.pinimg.com/originals/d8/e7/79/d8e779333b1a7b1e1468c2f5f4d1df9b.gif" />
+    <img align="center" alt="PNG" src="https://i.postimg.cc/pXbwwdFF/EMon-BHai-20230908-213516-0000.png" />
 </p> 
 <h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
 
