@@ -1,7 +1,7 @@
 {
     "name": "EMon-BHai",
     "version": "1.0.0",
-    "description": "A simple Facebook Messenger Bot Made By EMON HAWLADAR (EMon-BHai).",
+    "description": "A simple Facebook Messenger Bot Made By EMON HAWLADAR (EMon-BHai) Full Support Editing Help Abdullah Rahman (Abdulla49).",
     "main": "EMon-BHai.js",
     "scripts": {
         "start": "node index",
